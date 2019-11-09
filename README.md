@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/h1nqkL59FZym0X0mOv/giphy.gif' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/S58nvww4Pw1WPE5ytw/giphy.gif' width='200' alt='Video Walkthrough' />
 
 <img src='https://media.giphy.com/media/WpxVsUDRrpatub6qHZ/giphy.gif' width='200' alt='Video Walkthrough' />
 
